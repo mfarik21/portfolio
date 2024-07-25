@@ -1,7 +1,5 @@
 title: Muhamad Farikhin
 logo: /assets/img/headshot_circle.png
-description: 
-- linkedin.com/in/mfarikhin
-- medium.com/@mfarik
+#description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
