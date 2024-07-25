@@ -41,7 +41,7 @@ Designed backend services for loan-applying apps that have assisted over 11,000 
 
 ## Selected Data Projects
 ### Machine Learning Model for Predicting E-Commerce Customer Churn
-Developed a machine learning model for predicting e-commerce customer churn as part of the DTI-DS Capstone on Machine Learning. Used historical data to identify at-risk customers and implement targeted retention strategies.
+Developed a machine learning model for predicting e-commerce customer churn as part of the DTI-DS Capstone on Machine Learning. Used historical data to identify at-risk customers and implement targeted retention strategies. [Git Repo Link](https://github.com/mfarik21/ECommerce-Customer-Churn-Prediction)
 
 ### Online Retail Shipping Data Analysis
 Conducted in-depth data analysis of online retail shipping data as part of the DTI-DS Capstone on Data Analysis, producing a comprehensive notebook, interactive dashboard, and detailed report.
